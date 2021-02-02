@@ -8,4 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_HandPoser/Main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 86f66a0d37fa90d48aaa93e3c767c420,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: df9c4e447af65cf4bae1cca935e0ef29,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 0e930055ca920fe47b3dbeffffa67d83,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7eea5c7957e987446ad0ec90a9fefec9,
+      type: 2}
